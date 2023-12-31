@@ -8,7 +8,7 @@ Here are some facts about me!
 
 This profile has a lot of the projects that I've been working on. Feel free to check out my [blog](https://akeboss-tech.github.io/) for more information!
 
-### Here's a video with my maker portfolio
+### Here's my maker portfolio video
 [![Maker Portfolio](https://img.youtube.com/vi/4etao10RN-s/0.jpg)](https://youtu.be/4etao10RN-st=0s "Maker Portfolio")
 
 ### Some GitHub stats
