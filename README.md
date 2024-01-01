@@ -6,10 +6,7 @@ Here are some facts about me!
 - 🤖 I enjoy robotics
 - 🌱 I'm looking forward to learning more!
 
-This profile has a lot of the projects that I've been working on. Feel free to check out my [blog](https://akeboss-tech.github.io/) for more information!
-
-### Here's my maker portfolio video
-[![Maker Portfolio](https://img.youtube.com/vi/4etao10RN-s/0.jpg)](https://youtu.be/4etao10RN-st=0s "Maker Portfolio")
+This profile has a lot of the projects that I've been working on. Feel free to check out my [blog](https://akeboss-tech.github.io/) for more information! Here's the link to my [maker portfolio](https://youtu.be/4etao10RN-st)!
 
 ### Some GitHub stats
 
