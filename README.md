@@ -1,7 +1,8 @@
 # Hi, I'm Akash 👋
 
-Here are some facts about me!
-- 🏫 I'm a high school student
+Nice to meet you!
+- 🏫 I'm a freshmen at Rutgers University
+- ➕ I'm studying computer science and math.
 - 🧑‍💻 I love programming
 - 🤖 I enjoy robotics
 - 🌱 I'm looking forward to learning more!
